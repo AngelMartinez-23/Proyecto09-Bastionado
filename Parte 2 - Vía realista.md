@@ -74,7 +74,7 @@ Ahora lo realizaremos de google:
 
 ## Tabla comparativa
 
-| Característica | Mi Sitio Web (angelbastionado.duckdns.org) | Google (www.google.com) |
+| Característica | Mi Sitio Web (angelbastionado.zapto.org) | Google (www.google.com) |
 | --- | --- | --- |
 | Subject (Common Name) | angelbastionado.zapto.org | www.google.com |
 | Issuer | E6  | Google Trust Services LLC |

@@ -16,20 +16,20 @@ Este proyecto aborda el uso de certificados digitales en escenarios reales para 
 ### ✨**Parte 1: Vía Realista**
 Se configuró un acceso seguro mediante certificados digitales, eliminando contraseñas y reforzando la autenticación remota.
 
-🔗 [Enlace a parte 1]()
+🔗 [Enlace a parte 1](https://github.com/AngelMartinez-23/Proyecto09-Bastionado/blob/main/Parte%201%20-%20V%C3%ADa%20realista.md)
 
 ---
 
 ### 🔒 **Parte 2: Vía Realista** 
 Se implementó HTTPS en un servidor web utilizando certificados autofirmados y se compararon con certificados emitidos por Autoridades de Certificación (CA).
 
-🔗 [Enlace a Parte 2]()
+🔗 [Enlace a Parte 2](https://github.com/AngelMartinez-23/Proyecto09-Bastionado/blob/main/Parte%202%20-%20V%C3%ADa%20realista.md)
 
 ---
 
 ### 🔍 **Parte 3: Vía Realista**
 Se analizaron certificados válidos e inválidos, identificando causas como expiración, revocación y errores de configuración. Esto permitió comprender los factores que afectan su confiabilidad.
 
-🔗 [Enlace a Parte 3]()
+🔗 [Enlace a Parte 3](https://github.com/AngelMartinez-23/Proyecto09-Bastionado/blob/main/Parte%203%20-%20V%C3%ADa%20realista.md)
 
 ---
